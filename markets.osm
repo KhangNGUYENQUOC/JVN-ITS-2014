@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2015-04-21T07:11:02Z"/>
+
+  <node id="2123882252" lat="39.9493009" lon="-75.2094014" version="3" timestamp="2014-03-26T20:24:33Z" changeset="21332132" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:postcode" v="19104"/>
+    <tag k="addr:street" v="South 43rd Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Clark Park Farmers Market"/>
+    <tag k="opening_hours" v="Jan-Dec: Sa 10:00-14:00; Jun-Nov: Th 15:00-19:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/clark-park"/>
+  </node>
+  <node id="2151033539" lat="39.9518755" lon="-75.1611672" version="2" timestamp="2014-04-02T06:59:09Z" changeset="21451773" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="12th Street and Market Street"/>
+    <tag k="addr:postcode" v="19102"/>
+    <tag k="name" v="SEPTA"/>
+    <tag k="opening_hours" v="Jun-Oct: We 11:00-13:30"/>
+    <tag k="operator" v="Enterprise Center/Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2553176051" lat="39.9423938" lon="-75.2192945" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2553176052" lat="39.9426161" lon="-75.2195586" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2553176053" lat="39.9425161" lon="-75.2197016" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2553176054" lat="39.9424405" lon="-75.2196117" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2553176056" lat="39.9424723" lon="-75.2195661" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2553176058" lat="39.9423257" lon="-75.2193919" version="2" timestamp="2013-11-26T20:37:26Z" changeset="19133850" uid="1727004" user="SterlingGIS"/>
+  <node id="2633133902" lat="39.9548550" lon="-75.1821319" version="3" timestamp="2014-04-02T05:04:07Z" changeset="21450587" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="30th Street Station and Market Street"/>
+    <tag k="addr:postcode" v="19104"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="The Porch at 30th Street Station"/>
+    <tag k="opening_hours" v="May-Sep: We 11:00-14:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/theporchat30th"/>
+  </node>
+  <node id="2633142365" lat="39.9651072" lon="-75.2244238" version="5" timestamp="2014-03-26T20:18:23Z" changeset="21331996" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="19139"/>
+    <tag k="addr:street" v="North 52nd Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="52nd &amp; Haverford Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: We 13:00-17:00; Fr 13:00-17:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/52nd-haverford"/>
+  </node>
+  <node id="2633148648" lat="39.9740236" lon="-75.1803349" version="2" timestamp="2014-03-29T22:43:23Z" changeset="21391696" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="19130"/>
+    <tag k="addr:street" v="Girard Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="27th and Girard Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Sa 10:00-13:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.farmtocity.org"/>
+  </node>
+  <node id="2668016915" lat="39.9675082" lon="-75.1750596" version="4" timestamp="2014-03-26T20:26:32Z" changeset="21332174" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:postcode" v="19130"/>
+    <tag k="addr:street" v="North 22nd Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Fairmount Farmers Market"/>
+    <tag k="opening_hours" v="May-Nov: Th 15:00-19:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/fairmount"/>
+  </node>
+  <node id="2668017961" lat="39.9787671" lon="-75.1576008" version="1" timestamp="2014-02-12T02:46:03Z" changeset="20514750" uid="1727004" user="SterlingGIS">
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Cecil B. Moore Farmers Market"/>
+    <tag k="opening_hours" v="Th 14:00-18:00"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2668030808" lat="40.0801568" lon="-75.1731636" version="2" timestamp="2014-04-02T05:52:32Z" changeset="21450997" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1555"/>
+    <tag k="addr:postcode" v="19150"/>
+    <tag k="addr:street" v="Wadsworth Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Wadsworth Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Fr 10:00-14:00"/>
+    <tag k="operator" v="John King"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2719558286" lat="40.0642591" lon="-75.1536874" version="3" timestamp="2014-03-26T20:08:50Z" changeset="21331829" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:postcode" v="19138"/>
+    <tag k="addr:street" v="72nd Ave and Orgontz Ave"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="West Oak Lane Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Tu 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/west-oak-lane"/>
+  </node>
+  <node id="2719571034" lat="39.9437964" lon="-75.1652966" version="2" timestamp="2014-03-26T20:11:13Z" changeset="21331878" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:postcode" v="19147"/>
+    <tag k="addr:street" v="South Broad Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Broad &amp; South Farmers Market"/>
+    <tag k="opening_hours" v="May-Nov: We 14:00 - 17:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/broad-and-south"/>
+  </node>
+  <node id="2719638884" lat="39.9418657" lon="-75.2179235" version="1" timestamp="2014-03-15T19:05:24Z" changeset="21122699" uid="1986207" user="Phil_P">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="5100"/>
+    <tag k="addr:postcode" v="19143"/>
+    <tag k="addr:street" v="Kingsessing Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Earth's Keepers"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="www.earthskeepers.org"/>
+  </node>
+  <node id="2719642386" lat="40.0065485" lon="-75.1762263" version="4" timestamp="2014-05-23T15:44:31Z" changeset="22507604" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="2901"/>
+    <tag k="addr:postcode" v="19129"/>
+    <tag k="addr:street" v="West Hunting Park Avenue"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="landuse" v="farm"/>
+    <tag k="name" v="SHARE Food Program"/>
+    <tag k="opening_hours" v="May-Oct: Mo-Sa 9:00-15:00"/>
+    <tag k="shop" v="farm"/>
+    <tag k="social_facility" v="food_bank"/>
+    <tag k="website" v="http://sharefoodprogram.org/"/>
+  </node>
+  <node id="2719643375" lat="40.0521990" lon="-75.1761237" version="2" timestamp="2014-03-26T20:13:23Z" changeset="21331908" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:postcode" v="19119"/>
+    <tag k="addr:street" v="Chew Avenue and Johnson Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Cliveden Park Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: We 14:00 - 18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/cliveden-park"/>
+  </node>
+  <node id="2720252212" lat="39.9821084" lon="-75.1355377" version="3" timestamp="2014-05-23T20:05:46Z" changeset="22512110" uid="1727004" user="SterlingGIS">
+    <tag k="addr:full" v="West Diamond Street and North Hancock Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Norris Square Park Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Oct Sa 10:00-14:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2727919805" lat="39.9840009" lon="-75.1315166" version="1" timestamp="2014-03-19T23:48:22Z" changeset="21202316" uid="1805170" user="Aaron Dennis"/>
+  <node id="2727919806" lat="39.9838364" lon="-75.1313730" version="1" timestamp="2014-03-19T23:48:22Z" changeset="21202316" uid="1805170" user="Aaron Dennis"/>
+  <node id="2727919807" lat="39.9839024" lon="-75.1312442" version="1" timestamp="2014-03-19T23:48:23Z" changeset="21202316" uid="1805170" user="Aaron Dennis"/>
+  <node id="2727919808" lat="39.9840669" lon="-75.1313878" version="1" timestamp="2014-03-19T23:48:23Z" changeset="21202316" uid="1805170" user="Aaron Dennis"/>
+  <node id="2745593578" lat="39.9490623" lon="-75.1812541" version="3" timestamp="2014-03-26T20:21:15Z" changeset="21332062" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="South 25th Street and Spruce Street"/>
+    <tag k="addr:postcode" v="19103"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Schuylkill River Park Farmers Market"/>
+    <tag k="opening_hours" v="May-Nov: Th 14:00-18:00; Sa 10:00-14:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/schuylkill-river-park"/>
+  </node>
+  <node id="2745676659" lat="40.0375642" lon="-75.0910499" version="3" timestamp="2014-03-26T20:31:17Z" changeset="21332268" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:postcode" v="19149"/>
+    <tag k="addr:street" v="East Howell Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Oxford Circle Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Oct: Thur 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/oxford-circle"/>
+  </node>
+  <node id="2746031357" lat="39.9417427" lon="-75.1455570" version="2" timestamp="2014-10-09T16:56:24Z" changeset="25965147" uid="243003" user="skquinn">
+    <tag k="addr:full" v="2nd Street and Lombard Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Headhouse Farmers Market"/>
+    <tag k="opening_hours" v="May-Dec: Su 10:00-14:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/headhouse"/>
+  </node>
+  <node id="2752679733" lat="39.9240315" lon="-75.1692094" version="1" timestamp="2014-03-29T21:29:45Z" changeset="21390517" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="South Broad Street and Snyder Avenue"/>
+    <tag k="addr:postcode" v="19148"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Broad &amp; Snyder's Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Oct: Tu 14:00-19:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="wikipedia" v="http://thefoodtrust.org/farmers-markets/market/broad-and-snyder-1"/>
+  </node>
+  <node id="2752694980" lat="39.9320701" lon="-75.1812565" version="2" timestamp="2014-05-31T00:30:16Z" changeset="22647280" uid="92274" user="adjuva">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="22nd Street and Tasker Street"/>
+    <tag k="addr:postcode" v="19146"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="22nd &amp; Tasker Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Tu 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/22nd-tasker"/>
+  </node>
+  <node id="2752699200" lat="40.0167584" lon="-75.1469604" version="2" timestamp="2014-03-29T22:05:20Z" changeset="21391092" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="4200"/>
+    <tag k="addr:postcode" v="19140"/>
+    <tag k="addr:street" v="Old York Road"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Hunting Park Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Sa 10:00-14:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/hunting-park"/>
+  </node>
+  <node id="2752719283" lat="40.0392260" lon="-75.1448405" version="2" timestamp="2014-03-29T22:04:28Z" changeset="21391074" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="North Broad Street and West Olney Avenue"/>
+    <tag k="addr:postcode" v="19141"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Olney Transportation Center Farmers Market"/>
+    <tag k="opening_hours" v="Jul-Nov: Tu 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/olney-transportation-center"/>
+  </node>
+  <node id="2752722047" lat="39.9916620" lon="-75.1385824" version="2" timestamp="2014-03-29T22:02:39Z" changeset="21391053" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="19133"/>
+    <tag k="addr:street" v="West Lehigh Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Fairhill Square Park Farmers Market"/>
+    <tag k="opening_hours" v="Jul-Oct: We 13:00-17:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/fairhill-square"/>
+  </node>
+  <node id="2752724985" lat="40.0236393" lon="-75.0767059" version="2" timestamp="2014-03-29T22:01:38Z" changeset="21391031" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Frankford Avenue and Bustleton Avenue"/>
+    <tag k="addr:postcode" v="19149"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Frankford Transportation Center Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Tu 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/frankford-transportation-center"/>
+  </node>
+  <node id="2752736446" lat="39.9888600" lon="-75.1872432" version="1" timestamp="2014-03-29T21:59:50Z" changeset="21391005" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="3299"/>
+    <tag k="addr:postcode" v="19121"/>
+    <tag k="addr:street" v="Diamond Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="33rd &amp; Diamond Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Oct: Tu 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/33rd-diamond"/>
+  </node>
+  <node id="2752762909" lat="39.9355241" lon="-75.2285297" version="1" timestamp="2014-03-29T22:10:29Z" changeset="21391176" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="58th Street and Chester Avenue"/>
+    <tag k="addr:postcode" v="19143"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="58th &amp; Chester Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: We 14:00-18:00"/>
+    <tag k="operator" v="The Food Trust"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/58th-chester"/>
+  </node>
+  <node id="2752776496" lat="39.9537281" lon="-75.1592392" version="3" timestamp="2015-04-01T02:01:43Z" changeset="29895169" uid="624003" user="eugenebata">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="12th Street and Arch Street"/>
+    <tag k="addr:postcode" v="19107"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Reading Terminal Farmers Market"/>
+    <tag k="opening_hours" v="Jan-Dec:Su 9:00-17:00; Tu-Sa 10:00-13:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.readingterminalmarket.org/"/>
+  </node>
+  <node id="2752788045" lat="39.9501438" lon="-75.1717741" version="2" timestamp="2014-04-03T16:49:20Z" changeset="21480127" uid="999995" user="pkoby">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1800"/>
+    <tag k="addr:postcode" v="19103"/>
+    <tag k="addr:street" v="Walnut Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Rittenhouse Farmers Market"/>
+    <tag k="opening_hours" v="Jan-Dec: Tu 10:00-13:00; Sa 09:00-15:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/RittenhouseFarmersMarket"/>
+  </node>
+  <node id="2752798594" lat="39.9418902" lon="-75.1506820" version="1" timestamp="2014-03-29T22:25:39Z" changeset="21391424" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:postcode" v="19147"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="South and Passypunk Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Tu 14:30-19:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2752814337" lat="40.0463766" lon="-75.1961278" version="1" timestamp="2014-03-29T22:31:35Z" changeset="21391519" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Green Street and Carpenter Lane"/>
+    <tag k="addr:postcode" v="19119"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mt. Airy Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Th 15:00-19:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/pages/Mt-Airy-Farmers-Market/115303871848990"/>
+  </node>
+  <node id="2752817466" lat="39.9530534" lon="-75.1948794" version="1" timestamp="2014-03-29T22:35:58Z" changeset="21391584" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="3600"/>
+    <tag k="addr:postcode" v="19104"/>
+    <tag k="addr:street" v="Walnut Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="University Square Farmers Market"/>
+    <tag k="opening_hours" v="May-Nov: We 10:00-15:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2752820086" lat="39.9299889" lon="-75.1631625" version="2" timestamp="2015-03-20T08:45:32Z" changeset="29609062" uid="624003" user="eugenebata">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="19147"/>
+    <tag k="addr:street" v="East Passyunk Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Fountain Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: We 15:00-19:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760042238" lat="39.9533580" lon="-75.1663080" version="1" timestamp="2014-04-02T04:26:41Z" changeset="21450331" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="16th Street and JFK Boulevard"/>
+    <tag k="addr:postcode" v="19103"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Suburban Station Farmers Market"/>
+    <tag k="opening_hours" v="Jan-Dec: Th 12:00-18:30"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760042645" lat="39.9498152" lon="-75.1569288" version="1" timestamp="2014-04-02T04:29:56Z" changeset="21450348" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="995"/>
+    <tag k="addr:postcode" v="19107"/>
+    <tag k="addr:street" v="Chestnut Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Jefferson Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct:Th 11:00-15:30"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/pages/Jefferson-Farmers-Market/129580207073874"/>
+  </node>
+  <node id="2760044052" lat="40.0073213" lon="-75.1917726" version="1" timestamp="2014-04-02T04:34:52Z" changeset="21450383" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Under Rt 1 overpass, South Ferry Road at Kelly Drive"/>
+    <tag k="addr:postcode" v="19129"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="East Falls Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Sa 10:00-14:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760044909" lat="40.0674652" lon="-75.1972921" version="1" timestamp="2014-04-02T04:39:52Z" changeset="21450411" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="7650"/>
+    <tag k="addr:postcode" v="19118"/>
+    <tag k="addr:street" v="Germantown Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Chestnut Hill Growers Market"/>
+    <tag k="opening_hours" v="Jan-Dec: Sa 9:30-13:30"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/ChestnutHillFarmersMarket"/>
+  </node>
+  <node id="2760047586" lat="40.0373647" lon="-75.2214120" version="1" timestamp="2014-04-02T04:48:04Z" changeset="21450469" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Ridge Avenue and Acorn Street"/>
+    <tag k="addr:postcode" v="19128"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Gorgas Park Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Fr 14:00-18:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760049622" lat="39.9271823" lon="-75.1513545" version="2" timestamp="2014-04-02T04:59:50Z" changeset="21450558" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Southeast corner of Dickinson Square"/>
+    <tag k="addr:postcode" v="19148"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Dickinson Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Oct: Su 10:00-14:00"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.dspfarmersmarket.com/"/>
+  </node>
+  <node id="2760051352" lat="39.9536493" lon="-75.1716232" version="1" timestamp="2014-04-02T04:58:59Z" changeset="21450548" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="19103"/>
+    <tag k="addr:postcode" v="19103"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="IBC Farmers Market"/>
+    <tag k="opening_hours" v="May-Sep: We 10:30-14:30"/>
+    <tag k="operator" v="Farm to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760055944" lat="39.9682705" lon="-75.1403587" version="1" timestamp="2014-04-02T05:08:36Z" changeset="21450610" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="2nd Street and Germantown Ave"/>
+    <tag k="addr:postcode" v="19123"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Piazza Farmers Market"/>
+    <tag k="opening_hours" v="Jan-Dec: Sa 10:00-14:00"/>
+    <tag k="operator" v="Independent - Piazza"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760059634" lat="39.9535911" lon="-75.1597448" version="2" timestamp="2015-04-13T02:57:27Z" changeset="30177694" uid="624003" user="eugenebata">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="12th Street and Arch Street"/>
+    <tag k="addr:postcode" v="19107"/>
+    <tag k="name" v="Fair Food Farmstand"/>
+    <tag k="opening_hours" v="Jan-Dec: Su 9:00-17:00"/>
+    <tag k="operator" v="Fair Food"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760096651" lat="39.9664872" lon="-75.2187495" version="1" timestamp="2014-04-02T05:39:56Z" changeset="21450867" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="4901"/>
+    <tag k="addr:postcode" v="19139"/>
+    <tag k="addr:street" v="Brown Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Mill Creek Farmers Market"/>
+    <tag k="opening_hours" v="Jun-Nov: Sa 11:00-14:00"/>
+    <tag k="operator" v="Mill Creek Farm"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.millcreekurbanfarm.org/content/our-produce"/>
+  </node>
+  <node id="2760098506" lat="39.9785274" lon="-75.1210129" version="3" timestamp="2014-06-10T20:14:39Z" changeset="22858189" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="2501"/>
+    <tag k="addr:postcode" v="19125"/>
+    <tag k="addr:street" v="East Cumberland Street"/>
+    <tag k="name" v="Greensgrow Farmstand"/>
+    <tag k="opening_hours" v="Th 14:00-19:00 (Jan-Dec only);Sa 10:00-15:00 (All months)"/>
+    <tag k="operator" v="Greensgrow Farm &amp; Nursery"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/farmstand/"/>
+  </node>
+  <node id="2760106548" lat="39.9553663" lon="-75.1893475" version="1" timestamp="2014-04-02T06:03:28Z" changeset="21451115" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="South 33rd Street and Market Street"/>
+    <tag k="addr:postcode" v="19104"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Drexel University Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Tu 11:00-15:00"/>
+    <tag k="operator" v="Drexel Business Services"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.drexel.edu/green/programs_markets.html"/>
+  </node>
+  <node id="2760111856" lat="39.9594441" lon="-75.1962316" version="1" timestamp="2014-04-02T06:09:37Z" changeset="21451186" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Lancaster Avenue and Powelton Avenue"/>
+    <tag k="addr:postcode" v="19104"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Lancaster Ave Farmers Market"/>
+    <tag k="opening_hours" v="May-Oct: Sa 9:00-14:00"/>
+    <tag k="operator" v="John King"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760113374" lat="40.0752134" lon="-75.2056267" version="3" timestamp="2014-04-02T06:19:11Z" changeset="21451282" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:postcode" v="19118"/>
+    <tag k="name" v="Weavers Way Community Programs"/>
+    <tag k="opening_hours" v="May-Oct: Tu 15:00-18:00"/>
+    <tag k="operator" v="Weaver's Way"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/pages/Weavers-Way-Community-Programs/205651319491162"/>
+  </node>
+  <node id="2760113838" lat="40.0462547" lon="-75.1959712" version="1" timestamp="2014-04-02T06:18:16Z" changeset="21451273" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Carpenter Lane and Green Street"/>
+    <tag k="addr:postcode" v="19119"/>
+    <tag k="name" v="Weaver's Way Farmstand"/>
+    <tag k="opening_hours" v="May-Oct: Th 15:00-19:00"/>
+    <tag k="operator" v="Weaver's Way/Food to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760115676" lat="40.0494862" lon="-75.2200317" version="1" timestamp="2014-04-02T06:23:08Z" changeset="21451338" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="7100"/>
+    <tag k="addr:postcode" v="19129"/>
+    <tag k="addr:street" v="Henry Avenue"/>
+    <tag k="name" v="Henry Got Crops!"/>
+    <tag k="opening_hours" v="Jun-Oct: We 14:00-17:00"/>
+    <tag k="operator" v="Weaver's Way"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/HenryGotCrops"/>
+  </node>
+  <node id="2760116864" lat="39.9579395" lon="-75.2136476" version="1" timestamp="2014-04-02T06:27:08Z" changeset="21451375" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="4610"/>
+    <tag k="addr:postcode" v="19139"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Walnut Hill Farmstand"/>
+    <tag k="opening_hours" v="Jun-Oct: Tu 15:30-18:00; Fr 15:30-18:30"/>
+    <tag k="operator" v="Enterprise Center/Food to City"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760130455" lat="40.0321975" lon="-75.1685820" version="1" timestamp="2014-04-02T07:02:47Z" changeset="21451816" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="5267"/>
+    <tag k="addr:postcode" v="19144"/>
+    <tag k="addr:street" v="Germantown Avenue"/>
+    <tag k="name" v="Grumblethorpe Farmstand"/>
+    <tag k="opening_hours" v="Jun-Sep:Sa 10:00-14:00"/>
+    <tag k="operator" v="Grumblethorpe House"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.localharvest.org/grumblethorpe-farmstand-M22738"/>
+  </node>
+  <node id="2760136073" lat="39.9697878" lon="-75.2280822" version="1" timestamp="2014-04-02T07:16:03Z" changeset="21451962" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:postcode" v="19131"/>
+    <tag k="addr:street" v="North 54th Street"/>
+    <tag k="name" v="Urban Tree Harvest Farmstand"/>
+    <tag k="opening_hours" v="Sa 10:00-14:00"/>
+    <tag k="operator" v="Urban Tree Connection"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/urbantreeconnection"/>
+  </node>
+  <node id="2760143535" lat="39.9423616" lon="-75.2193585" version="1" timestamp="2014-04-02T07:22:28Z" changeset="21452028" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="51st Street &amp; Chester Avenue"/>
+    <tag k="addr:postcode" v="19143"/>
+    <tag k="name" v="Farm 51"/>
+    <tag k="opening_hours" v="May-Sep: Th 16:30-19:00"/>
+    <tag k="operator" v="Farm 51"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/pages/Farm-51/343475405728"/>
+  </node>
+  <node id="2760147086" lat="39.9879265" lon="-75.1678583" version="1" timestamp="2014-04-02T07:25:49Z" changeset="21452072" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="21st Street and W Susquehanna Ave"/>
+    <tag k="addr:postcode" v="19123"/>
+    <tag k="name" v="Shar-Nels Farmstand"/>
+    <tag k="opening_hours" v="Jun-Oct:Th-Fr 10:00-17:00; Sa 9:00-16:00"/>
+    <tag k="operator" v="Nelson Jones"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760151443" lat="39.9954066" lon="-75.2180474" version="1" timestamp="2014-04-02T07:31:43Z" changeset="21452143" uid="1806414" user="GrimGrotto">
+    <tag k="addr:full" v="Monument Road and Bellmont Ave"/>
+    <tag k="name" v="Heritage Farm Farmstand"/>
+    <tag k="opening_hours" v="Jun-Oct: Tu 15:00-18:00"/>
+    <tag k="operator" v="Methodist Family Services"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://heritagefarmphiladelphia.org/farmstand/"/>
+  </node>
+  <node id="2760151444" lat="39.9986595" lon="-75.2160318" version="1" timestamp="2014-04-02T07:31:44Z" changeset="21452143" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="4300"/>
+    <tag k="addr:postcode" v="19131"/>
+    <tag k="addr:street" v="Monument Road"/>
+    <tag k="name" v="Heritage Farm Farmstand"/>
+    <tag k="opening_hours" v="Jun-Oct: Fr 15:00-18:00"/>
+    <tag k="operator" v="Methodist Family Services"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://heritagefarmphiladelphia.org/farmstand/"/>
+  </node>
+  <node id="2760154351" lat="39.9773606" lon="-75.1794765" version="1" timestamp="2014-04-02T07:37:08Z" changeset="21452199" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="N 27th Street and W Maser Street"/>
+    <tag k="addr:postcode" v="19121"/>
+    <tag k="name" v="New Growth Project Farmstand"/>
+    <tag k="opening_hours" v="Sa 9:30-14:30"/>
+    <tag k="operator" v="New Growth Project/Maratho"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760164873" lat="40.0348373" lon="-75.1668031" version="1" timestamp="2014-04-02T07:45:59Z" changeset="21452294" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:postcode" v="19144"/>
+    <tag k="addr:street" v="East Penn Street"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Germantown Kitchen Garden Farmers Market"/>
+    <tag k="opening_hours" v="We 15:00-1830"/>
+    <tag k="operator" v="Germantown Kitchen Garden"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.facebook.com/pages/Germantown-Kitchen-Garden/189168871110366"/>
+  </node>
+  <node id="2760171006" lat="40.0680438" lon="-75.1850106" version="1" timestamp="2014-04-02T07:54:24Z" changeset="21452388" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1552"/>
+    <tag k="addr:postcode" v="19150"/>
+    <tag k="addr:street" v="Wadsworth Avenue"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="name" v="Growing for Good Farmers Market"/>
+    <tag k="opening_hours" v="We 11:00-15:00"/>
+    <tag k="operator" v="Green Sanctuary Earth Institute"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="2760172126" lat="40.0601563" lon="-75.2391305" version="2" timestamp="2014-04-02T07:59:56Z" changeset="21452462" uid="1806414" user="GrimGrotto">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:full" v="Ridge Avenue and Port Royal Avenue"/>
+    <tag k="addr:postcode" v="19103"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="description" v="At the U-Haul parking lot"/>
+    <tag k="name" v="Schuylkill River Park Farmers Market"/>
+    <tag k="opening_hours" v="May-Nov: Tu 14:00-18:00"/>
+    <tag k="operator" v="Urban Girls Produce"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://thefoodtrust.org/farmers-markets/market/schuylkill-river-park"/>
+  </node>
+  <node id="2895876538" lat="39.9593205" lon="-75.1952988" version="3" timestamp="2014-06-02T18:51:31Z" changeset="22700357" uid="1727004" user="SterlingGIS">
+    <tag k="addr:full" v="37th and Lancaster Avenue"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Tu 12:00-19:00; Th 12:00-19:00; Dec-Apr off"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895898230" lat="39.9480354" lon="-75.2220364" version="2" timestamp="2014-06-02T18:51:31Z" changeset="22700357" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="4912"/>
+    <tag k="addr:street" v="Baltimore Avenue"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Fr 15:00-18:00"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895900134" lat="39.9585300" lon="-75.2373403" version="2" timestamp="2014-06-02T18:51:31Z" changeset="22700357" uid="1727004" user="SterlingGIS">
+    <tag k="addr:full" v="58th and Walnut St"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Fr 10:00-11:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895915871" lat="39.9724244" lon="-75.2062642" version="2" timestamp="2014-06-02T18:51:31Z" changeset="22700357" uid="1727004" user="SterlingGIS">
+    <tag k="addr:full" v="58th and Walnut Street"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Fr 12:00-13:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895934408" lat="40.0276940" lon="-75.2140098" version="1" timestamp="2014-06-02T18:47:35Z" changeset="22700274" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="403"/>
+    <tag k="addr:street" v="Rector Street"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="We 10:00-11:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895943162" lat="40.0368560" lon="-75.1756112" version="1" timestamp="2014-06-02T18:54:08Z" changeset="22700415" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="5818"/>
+    <tag k="addr:street" v="Germantown Avenue"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="We 12:00-13:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895948005" lat="40.0032862" lon="-75.1045155" version="1" timestamp="2014-06-02T18:57:23Z" changeset="22700485" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1251"/>
+    <tag k="addr:street" v="East Sedgley Avenue"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Th 10:00-11:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <node id="2895958216" lat="39.9759881" lon="-75.1586284" version="1" timestamp="2014-06-02T19:01:48Z" changeset="22700573" uid="1727004" user="SterlingGIS">
+    <tag k="addr:city" v="Philadelphia"/>
+    <tag k="addr:housenumber" v="1438"/>
+    <tag k="addr:street" v="North Broad Street"/>
+    <tag k="name" v="Greensgrow Mobile Market"/>
+    <tag k="opening_hours" v="Th 12:00-13:30"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.greensgrow.org/mobile-markets/"/>
+  </node>
+  <way id="248549149" version="2" timestamp="2014-03-23T22:14:38Z" changeset="21274489" uid="1986407" user="M&amp;H">
+    <nd ref="2553176051"/>
+    <nd ref="2553176052"/>
+    <nd ref="2553176053"/>
+    <nd ref="2553176054"/>
+    <nd ref="2553176056"/>
+    <nd ref="2553176058"/>
+    <nd ref="2553176051"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="landuse" v="farm"/>
+    <tag k="leisure" v="garden"/>
+    <tag k="name" v="Farm 51"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.farm51.com"/>
+  </way>
+  <way id="267326045" version="3" timestamp="2014-03-23T21:40:38Z" changeset="21273932" uid="1986407" user="M&amp;H">
+    <nd ref="2727919805"/>
+    <nd ref="2727919806"/>
+    <nd ref="2727919807"/>
+    <nd ref="2727919808"/>
+    <nd ref="2727919805"/>
+    <tag k="landuse" v="farm"/>
+    <tag k="name" v="Emerald Street Urban Farm"/>
+    <tag k="note" v="Produce sold (in season) every other Saturday"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="emeraldstreeturbanfarm.wordpress.com"/>
+  </way>
+
+</osm>

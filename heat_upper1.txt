@@ -1,0 +1,7 @@
+),
+
+//10.782866,106.695018),//10.782866,106.695018
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+
+  
